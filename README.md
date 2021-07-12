@@ -1,4 +1,3 @@
-# IDENTIFY-THE-OBJECT-IN-A-IMAGE
 
 # What is ML(Mchine Learning)?
                     Machine learning(ML) is the study of computer algorithms that improve automatically through experience and by the use of data. In a Simple Word, Machine learning is humans try to mimic human brain by computer programs…Make computers think like humans. We are gonna develop a system that can think like humans.
